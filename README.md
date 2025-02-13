@@ -86,5 +86,5 @@ https://banglanews24.com/information-technology/news/bd/840959.details?utm_sourc
 
 তো পয়েন্ট A থেকে পয়েন্ট B তে ১০ জিবি ডাটা ট্রান্সফার করার সময় আমরা নেটওয়ার্ক লেয়ার এর Application Layer, Transport Layer, Network Layers, Data link layer, Physical Layer গুলো রেস্পন্স এর সময় কোথায় কোথায় থাকে সেগুলো আলোচনা করবো।
 
-software Engineer: Md. Ruhul Amin
+software Engineer: Md. Ruhul Amin  
 Date: 13th February 2025
